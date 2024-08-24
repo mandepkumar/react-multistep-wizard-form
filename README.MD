@@ -4,7 +4,7 @@ react-multistep-wizard-form is a versatile React component that simplifies creat
 
 ## Demo
 
-You can see a live demo of the component [here](https://react-multistep-wizard-form.vercel.app/).
+You can see a live demo of the component [here](https://react-multistep-wizard-form.vercel.app/). [source code github](https://github.com/mandepkumar/wizard-form-demo/tree/main)
 
 ![](https://github.com/mandepkumar/react-multistep-wizard-form/blob/main/src/assets/demo.gif)
 
