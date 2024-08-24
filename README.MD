@@ -4,7 +4,8 @@ react-multistep-wizard-form is a versatile React component that simplifies creat
 
 ## Demo
 
-You can see a live demo of the component [here](https://react-multistep-wizard-form.vercel.app/). [source code github](https://github.com/mandepkumar/wizard-form-demo/tree/main)
+You can see a live demo of the component [here](https://react-multistep-wizard-form.vercel.app/).
+Source code of demo component [here](https://github.com/mandepkumar/wizard-form-demo/tree/main)
 
 ![](https://github.com/mandepkumar/react-multistep-wizard-form/blob/main/src/assets/demo.gif)
 
@@ -49,7 +50,8 @@ Wrap your form sections with WizardForm and WizardSections. Pass the onSubmitWiz
 </WizardForm>
 ```
 
-Custom Navigation
+#### Custom Navigation
+
 You can create a custom navigation indicator using the useWizardForm hook:
 
 ```javascript
