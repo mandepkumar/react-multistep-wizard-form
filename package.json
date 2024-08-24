@@ -9,6 +9,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "rollup": "rollup -c --bundleConfigAsCjs"
   },
+  "keywords": [
+    "none",
+    "react",
+    "wizard",
+    "form",
+    "multistep",
+    "multi-step",
+    ""
+  ],
   "author": "Mandeep Kumar",
   "license": "ISC",
   "devDependencies": {
