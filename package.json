@@ -1,6 +1,6 @@
 {
   "name": "react-multistep-wizard-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react-multistep-wizard-form is a flexible and easy-to-use React component for creating multi-step forms or wizards.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
